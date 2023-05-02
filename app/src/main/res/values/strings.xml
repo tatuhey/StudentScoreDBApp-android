@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StudentScoreDBApp</string>
+    <string name="subject">Subject</string>
+    <string name="enter_subject">Enter Subject</string>
+    <string name="enter_score">Enter Score</string>
+    <string name="score">Score</string>
+    <string name="add_score">Add Score</string>
+    <string name="delete_score">Delete Score</string>
+    <string name="update_score">Update Score</string>
+    <string name="print_all_score">Print All Score</string>
+    <string name="delete_database">Delete Database</string>
+</resources>
